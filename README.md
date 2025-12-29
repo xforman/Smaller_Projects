@@ -9,4 +9,4 @@ This repository contains some of the side projects I completed in the last coupl
 
 - **Teaching** is an important piece, as teaching Psychology students about AI taught me a lot about presenting abstract concepts to non-technical audiences; also include my seminar lectures for the Formela Lab about Multi-agent RL
 
-- **Psychology In AI** contains my critical analysis of various topics/issues in the interdisciplinary intersection 
+- **Psychology In AI** contains an agile team analysis and recommendation and my critical analysis of various topics/issues in the interdisciplinary intersection 
